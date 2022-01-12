@@ -3,7 +3,7 @@
  * @author Eloy Altozano Meijer
  *
  */
-public class EjUno {
+public class JavaBasic1App {
 
 	public static void main(String[] args) {
 		int x=17;
