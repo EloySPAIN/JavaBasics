@@ -3,7 +3,7 @@
  * @author Eloy Altozano Meijer
  *
  */
-public class EjDos {
+public class JavaBasic2App {
 
 	public static void main(String[] args) {
 		int N=15;
