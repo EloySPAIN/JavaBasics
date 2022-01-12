@@ -15,7 +15,7 @@ public class JavaBasic2App {
 		System.out.println("La suma de: "+N+"+"+A+" es: "+ (N+A));
 		System.out.println("La resta de: "+N+"-"+A+" es: "+ (N-A));
 		int chr=C;
-		System.out.println(chr);
+		System.out.println("Numero de letra: "+chr);
 	}
 
 }
